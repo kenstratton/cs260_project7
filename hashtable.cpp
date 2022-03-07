@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string>
+#include <string.h>
 
 #define SIZE_TABLE 3
 #define SIZE_KEY 3
